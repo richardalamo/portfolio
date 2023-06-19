@@ -6,7 +6,7 @@ You can review all my projects in more detai here https://www.ricardoalamosalgad
 
 I am a Civil Engineer turned Data Scientist with a passion for leveraging data-driven solutions to drive business improvement and optimize performance.
 
-My journey in the field began with a 5-year tenure as a Data Analyst, where I gained substantial experience in statistical analysis, data visualization, and predictive modeling.
+My journey in the field began with a 5-year tenure as a Data Analyst, where I gained substantial experience in statistical analysis and data visualization.
 
 Recognizing the importance of business acumen in data science, I completed my MBA in 2018 to develop a deeper understanding of business operations, strategic management, and decision-making processes.
 
