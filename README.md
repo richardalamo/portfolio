@@ -4,6 +4,15 @@ Hello!
 
 You can review all my projects in more detai here https://www.ricardoalamosalgado.com/
 
+Projects:
+
+[Credit Lending - Freddie Mac](https://github.com/richardalamo/credit-lending-freddie-mac)
+[Tableau-Covid](https://github.com/richardalamo/Tableau-covid-economy)
+[K-means Topic clustering](https://github.com/richardalamo/K-means-text-clustering)
+
+
+About Me:
+
 I am a Civil Engineer turned Data Scientist with a passion for leveraging data-driven solutions to drive business improvement and optimize performance.
 
 My journey in the field began with a 5-year tenure as a Data Analyst, where I gained substantial experience in statistical analysis and data visualization.
