@@ -7,7 +7,9 @@ You can review all my projects in more detai here https://www.ricardoalamosalgad
 Projects:
 
 [Credit Lending - Freddie Mac](https://github.com/richardalamo/credit-lending-freddie-mac)
+<br>
 [Tableau-Covid](https://github.com/richardalamo/Tableau-covid-economy)
+<br>
 [K-means Topic clustering](https://github.com/richardalamo/K-means-text-clustering)
 
 
